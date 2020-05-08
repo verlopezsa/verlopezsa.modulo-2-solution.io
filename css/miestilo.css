@@ -38,11 +38,14 @@ h1 {
 	background-color: #999999;
 	text-align: justify;
 	margin:2%;	
+	height: 107px;
+	overflow: hidden;
 }
 p {
 	margin: 2%;
-	margin-top: 8%;
-	with:700px;
+	margin-top: 30px;
+	height: 72px;
+	white-space: break-space;
 }
 
 /*************** Simple Responsive Framework ************/
